@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm iheb akermi 😁</h1>
 <h3 align="center">data engineer / science student</h3>
 
+![image](https://user-images.githubusercontent.com/90511874/165421210-96faa751-222d-45d0-bf16-abdf0690af3c.png)
 
 - 🔭 I’m currently student in **computer science**
 
@@ -12,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10)
 
-- 📫 How to reach me **ihebakermi226@gmail.com**
+- 📫 How to reach me **ihebakermi226@gmail.com*
+
+
 
 - 📄 Know about me : I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.](I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.
 

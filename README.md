@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm iheb akermi 😁</h1>
 <h3 align="center">data engineer / science student</h3>
 
+
 - 🔭 I’m currently student in **computer science**
 
-- 🌱 I’m currently learning **data science /data engineer**
+- 🌱 I’m currently learning ** I'm data science /data engineer**
 
 - 👯 I’m looking to internship in **data science / data engineer / machine learning**
 
@@ -13,13 +14,13 @@
 
 - 📫 How to reach me **ihebakermi226@gmail.com**
 
-- 📄 Know about my experiences [I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.](I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.)
+- 📄 Know about me : I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.](I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.
 
 - ⚡ Fun fact **I think I am funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   < img src ="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
+  
   
 <a href="https://linkedin.com/in/iheb-akermi-87860916a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheb-akermi-87860916a/" height="30" width="40" /></a>
 <a href="https://fb.com/iheb akermi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iheb akermi" height="30" width="40" /></a>

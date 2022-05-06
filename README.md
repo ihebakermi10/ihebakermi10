@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently student in **computer science**
 
-- 🌱 I’m currently learning ** I'm data science /data engineer**
+- 🌱 I’m currently learning ** data science /data engineer**
 
-- 👯 I’m looking to internship in **data science / data engineer / machine learning**
+- 👯 I’m looking to internship in ** data science / data engineer / machine learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10)
 

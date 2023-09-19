@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm iheb akermi 😁</h1>
+<h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
 <h3 align="center">data engineer student</h3>
 
 ![image](https://user-images.githubusercontent.com/90511874/165421210-96faa751-222d-45d0-bf16-abdf0690af3c.png)

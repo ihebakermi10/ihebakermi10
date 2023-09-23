@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** data science /data engineer**
 
-- 👯 I’m looking to internship in ** data science / data engineer / machine learning **
+- 👯 I’m interested in research in field of   ** data science / data engineer / machine learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10)
 
@@ -17,7 +17,7 @@
 
 
 
-- 📄 Know about me : I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve I am looking for an internship in IT . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.
+- 📄 Know about me : I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve  . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.
 
 - ⚡ Fun fact **I think I am funny 😁**
 

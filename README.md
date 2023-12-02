@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/90511874/165421210-96faa751-222d-45d0-bf16-abdf0690af3c.png)
 
-- 🔭 I’m currently student in **computer science**
+- 🔭 I’m currently student in **computer science engineer**
 
 - 🌱 I’m currently learning ** data science /data engineer**
 

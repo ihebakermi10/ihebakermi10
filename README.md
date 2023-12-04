@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ** data science /data engineer**
 
-- 👯 I’m interested in research in field of   ** data science / data engineer / machine learning **
+- 👯 I’m interested in field of   ** data science / data engineer / machine learning / deep learning /IA / BI  / cloud Azure  **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10)
 

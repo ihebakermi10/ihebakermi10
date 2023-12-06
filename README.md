@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
-<h3 align="center">Data Engineer Student</h3>
+<h3 align="center">Data Science Engineering  Student</h3>
 
 ![image](https://user-images.githubusercontent.com/90511874/165421210-96faa751-222d-45d0-bf16-abdf0690af3c.png)
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m interested in field of   ** data science / data engineer / machine learning / deep learning /IA / BI  / cloud Azure  **
 
-- 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10)
+- 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10) [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]
 
 - 📫 How to reach me **ihebakermi226@gmail.com*
 

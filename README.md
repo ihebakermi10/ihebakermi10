@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
 <h3 align="center"> Artificial Intelligence engineering    Student</h3>
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/d4eb389f-4625-45b0-87f9-a289bff3ed57)
 
+![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/a8b1a770-311f-4ed7-84d1-79f7c7fa8a27)
 
 - 🔭 I’m currently student in **computer science engineer**
 

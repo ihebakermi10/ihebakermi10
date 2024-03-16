@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
 <h3 align="center"> Artificial Intelligence engineering    Student</h3>
-<div class="tenor-gif-embed" data-postid="15491020" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/is-it-ai-ai-artificial-intelligence-robot-curious-gif-15491020">Is It Ai Ai GIF</a>from <a href="https://tenor.com/search/is+it+ai-gifs">Is It Ai GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align="center">
   <a href="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/a012bcc0-edfe-49d9-b9fe-10ca5681aac4" target="_blank" rel="noreferrer">
     <img src="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/a012bcc0-edfe-49d9-b9fe-10ca5681aac4" alt="recent achievement video" width="500" height="500"/>

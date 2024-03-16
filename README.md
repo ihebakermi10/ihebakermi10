@@ -41,7 +41,7 @@
 <details>
   <summary>🎥 Recent Achievement Video</summary>
   <br/>
-  <video width="100%" controls>
+  <video width="200%" controls>
     <source src="https://your-video-url.com/your-video-file.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>

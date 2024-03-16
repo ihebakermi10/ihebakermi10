@@ -35,16 +35,12 @@
 
 <h3 align="left">Recent Achievement Video:</h3>
 <p align="left">
+
+https://github.com/ihebakermi10/ihebakermi10/assets/90511874/12fe9cc4-852c-4865-9dad-1c5772ce4995
+
+
 <a href="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462" target="_blank" rel="noreferrer"> <img src="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462" alt="recent achievement video" width="500" height="300"/> </a>
 </p>
 
 <h3 align="left">About my recent achievement:</h3>
-<p align="left">
-I recently completed a project that involved building a machine learning model to predict stock prices. I used Python and several popular libraries such as NumPy, Pandas, and Scikit-learn to build the model. I also used the TensorFlow library to build a neural network for the model.
 
-To train the model, I used historical stock price data for a particular company. I preprocessed the data and split it into training and testing sets. I then trained the model on the training set and evaluated its performance on the testing set.
-
-The model achieved an accuracy of over 90% on the testing set, which is quite impressive. I also created a user-friendly interface for the model using the Flask web framework. Users can input the name of a company and the model will predict its stock price.
-
-Overall, I am very proud of this achievement as it demonstrates my skills in machine learning, data analysis, and web development.
-</p>

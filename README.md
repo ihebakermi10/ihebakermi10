@@ -41,9 +41,10 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://spacy.io/" target="_blank" rel="noreferrer"> <img src="https://spacy.io/images/logo-black.svg" alt="spacy" width="40" height="40"/> </a>
   <a href="https://nltk.org/" target="_blank" rel="noreferrer"> <img src="https://nltk.org/images/nltk_logo.png" alt="nltk" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-nobackground.png" alt="hugging face" width="40" height="40"/> </a>
   <a href="https://www.apacheairflow.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/_images/apache-airflow-logo-default.png" alt="apache airflow" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+ <a href="https://www.kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.apachehadoop.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="apache hadoop" width="40" height="40"/> </a>
   <a href="https://www.elasticsearch.org/" target="_blank" rel="noreferrer"> <img src="https://www.elastic.co/logos/elastic-logo-white.svg" alt="elasticsearch" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>

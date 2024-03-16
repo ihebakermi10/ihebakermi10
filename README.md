@@ -43,9 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://langchain.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/73746532?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
-  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer"> <img ![image](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/bf4aff05-f8a5-4b24-99fe-4b9448e381db)
- alt="huggingface" width="40" height="40"/> </a>
+  
   <a href="https://arxiv.org/abs/2107.07560" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/700/1*4eJ04eBzr-4aK10T_T8GxQ.png" alt="LLM" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>

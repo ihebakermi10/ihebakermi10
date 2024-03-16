@@ -43,12 +43,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-nobackground.png" alt="Hugging Face" width="30" height="40"/></a>
-<a href="https://langchain.com/" target="_blank" rel="noreferrer">
-<img src="https://langchain.com/static/images/logo.png" alt="Langchain" width="30" height="40"/></a> 
-<a href="https://linkedin.com/in/ihebakermi10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheb-akermi-87860916a/" height="30" width="40" /></a>
-<a href="https://fb.com/iheb.akermi.146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iheb akermi" height="30" width="40" /></a>
-<a href="https://instagram.com/iheb.aker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iheb.aker" height="30" width="40" /></a>
+  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" alt="huggingface" width="40" height="40"/> </a>
+  <a href="https://langchain.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/73746532?s=200&v=4" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://large-language-model.github.io/" target="_blank" rel="noreferrer"> <img src="https://large-language-model.github.io/assets/logo.png" alt="large language model" width="40" height="40"/> </a>
+  <a href="https://arxiv.org/abs/2107.07560" target="_blank" rel="noreferrer"> <img src="https://arxiv.org/styles/logo-v2.png" alt="LLM" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>

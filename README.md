@@ -36,8 +36,6 @@
 <h3 align="left">Recent Achievement Video:</h3>
 <p align="left">
 
-https://github.com/ihebakermi10/ihebakermi10/assets/90511874/12fe9cc4-852c-4865-9dad-1c5772ce4995
-
 
 <a href="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462" target="_blank" rel="noreferrer"> <img src="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462" alt="recent achievement video" width="500" height="300"/> </a>
 </p>

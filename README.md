@@ -33,7 +33,6 @@
 <h3 align="left">Languages and Tools:</h3>
 </p>
 
-<h3 align="left">Recent Achievement Video:</h3>
 <p align="left">
 
 

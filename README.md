@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
 <h3 align="center"> Artificial Intelligence engineering    Student</h3>
 
-![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/a8b1a770-311f-4ed7-84d1-79f7c7fa8a27)
+<h3 align="left">Recent Achievement Video:</h3>
+<p align="left">
+  <a href="[https://your-video-url.com/your-video-file.mp4](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462)">
+    <img src="https://img.shields.io/badge/-Watch%20My%20Video-red?style=for-the-badge" alt="Recent Achievement Video"/>
+  </a>
+</p>
 
+<details>
+  <summary>🎥 Recent Achievement Video</summary>
+  <br/>
+  <video width="200%" controls>
+    <source src="[https://your-video-url.com/your-video-file.mp4](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462)" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</details>
 - 🔭 I’m currently student in **computer science engineer**
 
 - 🌱 I’m currently learning ** data science /data engineer**
@@ -31,18 +44,4 @@
 <h3 align="left">Languages and Tools:</h3>
 </p>
 
-<h3 align="left">Recent Achievement Video:</h3>
-<p align="left">
-  <a href="https://your-video-url.com/your-video-file.mp4">
-    <img src="https://img.shields.io/badge/-Watch%20My%20Video-red?style=for-the-badge" alt="Recent Achievement Video"/>
-  </a>
-</p>
 
-<details>
-  <summary>🎥 Recent Achievement Video</summary>
-  <br/>
-  <video width="200%" controls>
-    <source src="https://your-video-url.com/your-video-file.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</details>

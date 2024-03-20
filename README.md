@@ -76,4 +76,5 @@
 
 </p>
 🌟 About:
+
 This hands-on project is perfect for honing my Artificial Intelligence and computer vision skills, designed to emulate the success of industry-leading collaborations like AWS and Bundesliga's game-changing analytics partnership. The project aims to provide a deeper understanding of Tennis dynamics and engagement for Tennis enthusiasts, similar to the real-time insights delivered by AWS in Bundesliga matches.

@@ -29,13 +29,12 @@
 <p align="left">
 
 
-![image](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/133e86d1-07a8-4503-82f9-91b992a0ad3c)
 
   
 
 <a href="https://linkedin.com/in/ihebakermi10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheb-akermi-87860916a/" height="30" width="40" /></a>
-<a href="https://huggingface.co/ihebaker10" target="blank"> <img align="center" src="![image](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/c5484f31-8b44-4533-8835-da5cb6be443b)
-" height="30" width="40" /></a>
+<a href="https://huggingface.co/ihebaker10" target="blank"> <img align="center" src="![image](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/133e86d1-07a8-4503-82f9-91b992a0ad3c)
+ height="30" width="40" /></a>
 
 </p>
 </p>

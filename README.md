@@ -18,7 +18,8 @@
 - 👨‍💻 All of my projects are available here [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]
 
 - 📫 How to reach me **ihebakermi226@gmail.com*
-
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1400A6?style=for-the-badge&logo=huggingface&logoColor=white)
+[Visit my Hugging Face profile](https://huggingface.co/ihebaker10)
 
 
 - 📄 Know about me : I am extremely motivated to constantly develop my skills and evaluate professionally, always anxious to improve  . The development skills acquired during class projects and at my school's computer club made me want to have in-depth practical experience in the field.

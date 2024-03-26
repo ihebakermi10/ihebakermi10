@@ -15,7 +15,7 @@
 
 - 👯 I’m interested in field of   ** data science / data engineer / machine learning / deep learning /IA / BI  / cloud Azure  **
 
-- 👨‍💻 All of my projects are available at [https://github.com/ihebakermi10](https://github.com/ihebakermi10) [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]
+- 👨‍💻 All of my projects are available here [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]
 
 - 📫 How to reach me **ihebakermi226@gmail.com*
 

@@ -70,7 +70,8 @@
 <p align="left">
 <h3 align="left">About my recent achievement:</h3>
 
-![output_video(3)](https://github.com/ihebakermi10/ihebakermi10/assets/90511874/fe2fd04d-4788-4d50-818a-28710798719a)
+
+<a href="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/fe2fd04d-4788-4d50-818a-28710798719a" target="_blank" rel="noreferrer"> <img src="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/f7e79530-cb0f-4cac-a28e-252fab132462" alt="recent achievement video" width="500" height="300"/> </a>
 
 </p>
 🌟 About:

@@ -18,6 +18,7 @@
 - 👨‍💻 All of my projects are available here [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]
 
 - 📫 How to reach me **ihebakermi226@gmail.com*
+- 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1400A6?style=for-the-badge&logo=huggingface&logoColor=white)
 [Visit my Hugging Face profile](https://huggingface.co/ihebaker10)
 

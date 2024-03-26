@@ -28,13 +28,6 @@
 <p align="left">
 <p align="left">
 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ihebakermi10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheb-akermi-87860916a/" height="30" width="40" /></a>
-  <a href="https://fb.com/iheb.akermi.146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iheb akermi" height="30" width="40" /></a>
-  <a href="https://instagram.com/iheb.aker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iheb.aker" height="30" width="40" /></a>
-  <a href="https://huggingface.co/ihebaker10" target="blank"><img align="center" src="path_to_your_hugging_face_icon.svg" alt="Hugging Face" height="30" width="40" /></a>
-</p>
 
 
   
@@ -42,6 +35,7 @@
 <a href="https://linkedin.com/in/ihebakermi10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheb-akermi-87860916a/" height="30" width="40" /></a>
 <a href="https://fb.com/iheb.akermi.146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iheb akermi" height="30" width="40" /></a>
 <a href="https://instagram.com/iheb.aker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iheb.aker" height="30" width="40" /></a>
+<a href="https://huggingface.co/ihebaker10" target="blank"> <img align="center" src="path_to_your_hugging_face_icon.svg" alt="Hugging Face" height="30" width="40" /></a>
 
 </p>
 </p>

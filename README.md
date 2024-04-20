@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
 <h3 align="center"> Artificial Intelligence engineering    Student</h3>
 
-<p align="center">
-  <a href="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/a012bcc0-edfe-49d9-b9fe-10ca5681aac4" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ihebakermi10/ihebakermi10/assets/90511874/a012bcc0-edfe-49d9-b9fe-10ca5681aac4" alt="recent achievement video" width="500" height="500"/>
-  </a>
-</p>
 
 - 🔭 I’m currently student in **computer science engineer**
 

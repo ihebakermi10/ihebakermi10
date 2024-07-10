@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm iheb akremi 😁</h1>
 
-<h2 align="center"> Artificial Intelligence engineering    Student</h2>
+<h2 align="center"> Artificial Intelligence engineering    </h2>
 
 
 

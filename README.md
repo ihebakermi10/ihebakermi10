@@ -8,12 +8,6 @@
 
 
 
-
-
-- 🔭 I’m currently student in **computer science engineer**
-
-- 🌱 I’m currently learning ** data science /data engineer**
-
 - 👯 I’m interested in field of   ** data science / data engineer / machine learning / deep learning /IA / BI  / cloud Azure  **
 
 - 👨‍💻 All of my projects are available here [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]

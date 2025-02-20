@@ -8,7 +8,7 @@
 
 
 
-- 👯 I’m interested in field of   ** data science / data engineer / machine learning / deep learning /IA / BI  / cloud Azure  **
+- 👯 I’m interested in field of    data science / data engineer / machine learning / deep learning /IA / BI  / cloud Azure  
 
 - 👨‍💻 All of my projects are available here [NOTE ! THERE ARE SOME PRIVATE PROJECT 😁 ]
 

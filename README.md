@@ -28,10 +28,3 @@ Hello, I'm IHEB AKERMI, an AI Engineer with a passion for developing advanced te
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###

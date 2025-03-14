@@ -21,7 +21,11 @@ Hello, I'm IHEB AKERMI, an AI Engineer with a passion for developing advanced te
 ---
 [![](https://visitcount.itsvg.in/api?id=ihebakermi10&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ihebakermi10/ihebakermi10/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
